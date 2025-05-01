@@ -199,6 +199,12 @@ export default function PostDetail() {
   const cardBgColor = useColorModeValue('white', 'gray.800');
   const badgeBgColor = useColorModeValue('gray.100', 'gray.700');
   const inputBgColor = useColorModeValue('white', 'gray.700');
+  const buttonHoverBgColor = useColorModeValue('gray.100', 'gray.700');
+  const menuItemBlueBgHover = useColorModeValue('blue.50', 'blue.900');
+  const menuItemBlueColorHover = useColorModeValue('blue.700', 'blue.300');
+  const menuItemRedBgHover = useColorModeValue('red.50', 'red.900');
+  const menuItemRedColorHover = useColorModeValue('red.700', 'red.300');
+  const imageContainerBgColor = useColorModeValue('gray.50', 'gray.900');
   
   const [post, setPost] = useState<Post | null>(null);
   const [isLoading, setIsLoading] = useState(true);
@@ -729,7 +735,7 @@ export default function PostDetail() {
           as={NextLink}
           href="/posts"
           color={textColor}
-          _hover={{ bg: useColorModeValue('gray.100', 'gray.700') }}
+          _hover={{ bg: buttonHoverBgColor }}
         >
           Back to Reports
         </Button>
@@ -859,7 +865,7 @@ export default function PostDetail() {
                         display="flex"
                         alignItems="center"
                         justifyContent="center"
-                        bg={useColorModeValue('gray.50', 'gray.900')}
+                        bg={imageContainerBgColor}
                       >
                         <Image
                           src={currentImageUrl}
@@ -1019,8 +1025,8 @@ export default function PostDetail() {
                         color="blue.500"
                         fontWeight="medium"
                         _hover={{
-                          bg: useColorModeValue('blue.50', 'blue.900'),
-                          color: useColorModeValue('blue.700', 'blue.300')
+                          bg: menuItemBlueBgHover,
+                          color: menuItemBlueColorHover
                         }}
                       >
                         Edit Post
@@ -1031,8 +1037,8 @@ export default function PostDetail() {
                         onClick={openDeleteModal}
                         fontWeight="medium"
                         _hover={{
-                          bg: useColorModeValue('red.50', 'red.900'),
-                          color: useColorModeValue('red.700', 'red.300')
+                          bg: menuItemRedBgHover,
+                          color: menuItemRedColorHover
                         }}
                       >
                         Delete Post

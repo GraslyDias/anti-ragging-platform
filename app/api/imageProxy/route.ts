@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 
 // Define the base URL for the PHP backend
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost/anti-ragging-platform';
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'https://akf.digital/anti-ragging-platform';
 
 /**
  * Image proxy handler

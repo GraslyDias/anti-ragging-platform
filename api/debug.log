@@ -20796,3 +20796,1565 @@ ssed
 [2025-05-01 18:16:31] Fetching 3 trending posts
 [2025-05-01 18:16:31] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
 [2025-05-01 18:16:31] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:33:49] Get statistics endpoint accessed
+[2025-05-01 18:33:49] Get recent posts endpoint accessed
+[2025-05-01 18:33:49] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:33:49] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:33:49] Fetching 3 recent posts
+[2025-05-01 18:33:49] Get trending posts endpoint accessed
+[2025-05-01 18:33:49] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:33:49] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:33:49] Database connection successful
+[2025-05-01 18:33:49] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:33:49] Database connection successful
+[2025-05-01 18:33:49] Fetching 3 trending posts
+[2025-05-01 18:33:49] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:33:49] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:34:31] Get statistics endpoint accessed
+[2025-05-01 18:34:31] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:34:31] Database connection successful
+[2025-05-01 18:34:31] Get trending posts endpoint accessed
+[2025-05-01 18:34:31] Get recent posts endpoint accessed
+[2025-05-01 18:34:31] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:34:31] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:34:31] Database connection successful
+[2025-05-01 18:34:31] Fetching 3 recent posts
+[2025-05-01 18:34:31] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:34:31] Database connection successful
+[2025-05-01 18:34:31] Fetching 3 trending posts
+[2025-05-01 18:34:31] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:34:31] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:34:31] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:34:57] Get post endpoint accessed
+[2025-05-01 18:34:57] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:34:57] Database connection successful
+[2025-05-01 18:34:57] Fetching post with ID: 4
+[2025-05-01 18:34:57] Post found: Array
+(
+    [id] => 4
+    [user_id] => 2
+    [title] => bchgjbjm,m,mn
+    [content] => xbxbdfsdjklhgdfszfgdfhgchfchdS
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+    [created_at] => 2025-05-01 20:19:30
+    [updated_at] => 2025-05-01 21:45:27
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:34:57] Found 1 comments
+[2025-05-01 18:34:57] Post has 1 likes
+[2025-05-01 18:34:57] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:34:57] Decoded as array with 4 images
+[2025-05-01 18:34:57] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+[2025-05-01 18:34:57] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+[2025-05-01 18:34:57] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+[2025-05-01 18:34:57] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+[2025-05-01 18:34:57] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+    [1] => /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+    [2] => /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+    [3] => /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+)
+
+[2025-05-01 18:34:57] Final JSON response: {"status":"success","post":{"id":"4","title":"bchgjbjm,m,mn","content":"xbxbdfsdjklhgdfszfgdfhgchfchdS","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 20:19:30","updated_at":"2025-05-01 21:45:27","images":["/anti-ragging-platform/api/uploads/posts/68139a859ba69.png","/anti-ragging-platform/api/uploads/posts/68139a85a36ad.png","/anti-ragging-platform/api/uploads/posts/68139a85aede2.png","/anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png"],"likes":...
+[2025-05-01 18:34:57] Get post endpoint accessed
+[2025-05-01 18:34:57] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:34:57] Database connection successful
+[2025-05-01 18:34:57] Fetching post with ID: 4
+[2025-05-01 18:34:57] User ID provided: 2
+[2025-05-01 18:34:57] Post found: Array
+(
+    [id] => 4
+    [user_id] => 2
+    [title] => bchgjbjm,m,mn
+    [content] => xbxbdfsdjklhgdfszfgdfhgchfchdS
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+    [created_at] => 2025-05-01 20:19:30
+    [updated_at] => 2025-05-01 21:45:27
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:34:57] Found 1 comments
+[2025-05-01 18:34:57] Post has 1 likes
+[2025-05-01 18:34:57] User has liked the post
+[2025-05-01 18:34:57] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:34:57] Decoded as array with 4 images
+[2025-05-01 18:34:57] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+[2025-05-01 18:34:57] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+[2025-05-01 18:34:57] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+[2025-05-01 18:34:57] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+[2025-05-01 18:34:57] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+    [1] => /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+    [2] => /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+    [3] => /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+)
+
+[2025-05-01 18:34:57] Final JSON response: {"status":"success","post":{"id":"4","title":"bchgjbjm,m,mn","content":"xbxbdfsdjklhgdfszfgdfhgchfchdS","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 20:19:30","updated_at":"2025-05-01 21:45:27","images":["/anti-ragging-platform/api/uploads/posts/68139a859ba69.png","/anti-ragging-platform/api/uploads/posts/68139a85a36ad.png","/anti-ragging-platform/api/uploads/posts/68139a85aede2.png","/anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png"],"likes":...
+[2025-05-01 18:35:04] Get statistics endpoint accessed
+[2025-05-01 18:35:04] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:35:04] Database connection successful
+[2025-05-01 18:39:27] Get statistics endpoint accessed
+[2025-05-01 18:39:27] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:39:27] Database connection successful
+[2025-05-01 18:39:27] Get recent posts endpoint accessed
+[2025-05-01 18:39:27] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:39:27] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:39:27] Database connection successful
+[2025-05-01 18:39:27] Database connection successful
+[2025-05-01 18:39:27] Fetching 3 trending posts
+[2025-05-01 18:39:27] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:39:27] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:39:27] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:39:27] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:39:37] Get post endpoint accessed
+[2025-05-01 18:39:37] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:39:37] Database connection successful
+[2025-05-01 18:39:37] Fetching post with ID: 4
+[2025-05-01 18:39:37] Post found: Array
+(
+    [id] => 4
+    [user_id] => 2
+    [title] => bchgjbjm,m,mn
+    [content] => xbxbdfsdjklhgdfszfgdfhgchfchdS
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+    [created_at] => 2025-05-01 20:19:30
+    [updated_at] => 2025-05-01 21:45:27
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:39:37] Found 1 comments
+[2025-05-01 18:39:37] Post has 1 likes
+[2025-05-01 18:39:37] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:39:37] Decoded as array with 4 images
+[2025-05-01 18:39:37] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+[2025-05-01 18:39:37] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+[2025-05-01 18:39:37] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+[2025-05-01 18:39:37] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+[2025-05-01 18:39:37] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+    [1] => /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+    [2] => /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+    [3] => /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+)
+
+[2025-05-01 18:39:37] Final JSON response: {"status":"success","post":{"id":"4","title":"bchgjbjm,m,mn","content":"xbxbdfsdjklhgdfszfgdfhgchfchdS","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 20:19:30","updated_at":"2025-05-01 21:45:27","images":["/anti-ragging-platform/api/uploads/posts/68139a859ba69.png","/anti-ragging-platform/api/uploads/posts/68139a85a36ad.png","/anti-ragging-platform/api/uploads/posts/68139a85aede2.png","/anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png"],"likes":...
+[2025-05-01 18:39:37] Get post endpoint accessed
+[2025-05-01 18:39:37] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:39:37] Database connection successful
+[2025-05-01 18:39:37] Fetching post with ID: 4
+[2025-05-01 18:39:37] User ID provided: 2
+[2025-05-01 18:39:37] Post found: Array
+(
+    [id] => 4
+    [user_id] => 2
+    [title] => bchgjbjm,m,mn
+    [content] => xbxbdfsdjklhgdfszfgdfhgchfchdS
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+    [created_at] => 2025-05-01 20:19:30
+    [updated_at] => 2025-05-01 21:45:27
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:39:37] Found 1 comments
+[2025-05-01 18:39:37] Post has 1 likes
+[2025-05-01 18:39:37] User has liked the post
+[2025-05-01 18:39:37] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:39:37] Decoded as array with 4 images
+[2025-05-01 18:39:37] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+[2025-05-01 18:39:37] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+[2025-05-01 18:39:37] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+[2025-05-01 18:39:37] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+[2025-05-01 18:39:37] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+    [1] => /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+    [2] => /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+    [3] => /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+)
+
+[2025-05-01 18:39:37] Final JSON response: {"status":"success","post":{"id":"4","title":"bchgjbjm,m,mn","content":"xbxbdfsdjklhgdfszfgdfhgchfchdS","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 20:19:30","updated_at":"2025-05-01 21:45:27","images":["/anti-ragging-platform/api/uploads/posts/68139a859ba69.png","/anti-ragging-platform/api/uploads/posts/68139a85a36ad.png","/anti-ragging-platform/api/uploads/posts/68139a85aede2.png","/anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png"],"likes":...
+[2025-05-01 18:39:42] Get post endpoint accessed
+[2025-05-01 18:39:42] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:39:42] Database connection successful
+[2025-05-01 18:39:42] Fetching post with ID: 4
+[2025-05-01 18:39:42] Post found: Array
+(
+    [id] => 4
+    [user_id] => 2
+    [title] => bchgjbjm,m,mn
+    [content] => xbxbdfsdjklhgdfszfgdfhgchfchdS
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+    [created_at] => 2025-05-01 20:19:30
+    [updated_at] => 2025-05-01 21:45:27
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:39:42] Found 1 comments
+[2025-05-01 18:39:42] Post has 1 likes
+[2025-05-01 18:39:42] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:39:42] Decoded as array with 4 images
+[2025-05-01 18:39:42] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+[2025-05-01 18:39:42] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+[2025-05-01 18:39:42] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+[2025-05-01 18:39:42] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+[2025-05-01 18:39:42] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+    [1] => /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+    [2] => /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+    [3] => /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+)
+
+[2025-05-01 18:39:42] Final JSON response: {"status":"success","post":{"id":"4","title":"bchgjbjm,m,mn","content":"xbxbdfsdjklhgdfszfgdfhgchfchdS","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 20:19:30","updated_at":"2025-05-01 21:45:27","images":["/anti-ragging-platform/api/uploads/posts/68139a859ba69.png","/anti-ragging-platform/api/uploads/posts/68139a85a36ad.png","/anti-ragging-platform/api/uploads/posts/68139a85aede2.png","/anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png"],"likes":...
+[2025-05-01 18:39:51] Get user posts endpoint accessed
+[2025-05-01 18:39:51] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:39:51] Database connection successful
+[2025-05-01 18:39:51] Fetching posts for user ID: 2
+[2025-05-01 18:39:51] Count only mode requested
+[2025-05-01 18:39:51] User 2 has 1 posts
+[2025-05-01 18:39:55] Get user posts endpoint accessed
+[2025-05-01 18:39:55] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:39:55] Database connection successful
+[2025-05-01 18:39:55] Fetching posts for user ID: 2
+[2025-05-01 18:39:55] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:39:55] Successfully decoded JSON images
+[2025-05-01 18:39:55] Decoded as array: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:39:55] Using only filename: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png -> 68139a859ba69.png
+[2025-05-01 18:39:55] Image filename for front-end: 68139a859ba69.png
+[2025-05-01 18:39:55] Using only filename: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png -> 68139a85a36ad.png
+[2025-05-01 18:39:55] Image filename for front-end: 68139a85a36ad.png
+[2025-05-01 18:39:55] Using only filename: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png -> 68139a85aede2.png
+[2025-05-01 18:39:55] Image filename for front-end: 68139a85aede2.png
+[2025-05-01 18:39:55] Using only filename: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png -> 68139a85b8c0a.png
+[2025-05-01 18:39:55] Image filename for front-end: 68139a85b8c0a.png
+[2025-05-01 18:39:55] Final image filenames: ["68139a859ba69.png","68139a85a36ad.png","68139a85aede2.png","68139a85b8c0a.png"]
+[2025-05-01 18:39:55] Found 1 posts for user
+[2025-05-01 18:39:59] Posts read endpoint accessed
+[2025-05-01 18:39:59] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:39:59] Database connection successful
+[2025-05-01 18:39:59] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:39:59] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:40:02] Get post endpoint accessed
+[2025-05-01 18:40:02] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:02] Database connection successful
+[2025-05-01 18:40:02] Fetching post with ID: 4
+[2025-05-01 18:40:02] Post found: Array
+(
+    [id] => 4
+    [user_id] => 2
+    [title] => bchgjbjm,m,mn
+    [content] => xbxbdfsdjklhgdfszfgdfhgchfchdS
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+    [created_at] => 2025-05-01 20:19:30
+    [updated_at] => 2025-05-01 21:45:27
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:40:02] Found 1 comments
+[2025-05-01 18:40:02] Post has 1 likes
+[2025-05-01 18:40:02] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:40:02] Decoded as array with 4 images
+[2025-05-01 18:40:02] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+[2025-05-01 18:40:02] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+[2025-05-01 18:40:02] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+[2025-05-01 18:40:02] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+[2025-05-01 18:40:02] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+    [1] => /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+    [2] => /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+    [3] => /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+)
+
+[2025-05-01 18:40:02] Final JSON response: {"status":"success","post":{"id":"4","title":"bchgjbjm,m,mn","content":"xbxbdfsdjklhgdfszfgdfhgchfchdS","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 20:19:30","updated_at":"2025-05-01 21:45:27","images":["/anti-ragging-platform/api/uploads/posts/68139a859ba69.png","/anti-ragging-platform/api/uploads/posts/68139a85a36ad.png","/anti-ragging-platform/api/uploads/posts/68139a85aede2.png","/anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png"],"likes":...
+[2025-05-01 18:40:02] Get post endpoint accessed
+[2025-05-01 18:40:02] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:02] Database connection successful
+[2025-05-01 18:40:02] Fetching post with ID: 4
+[2025-05-01 18:40:02] User ID provided: 2
+[2025-05-01 18:40:02] Post found: Array
+(
+    [id] => 4
+    [user_id] => 2
+    [title] => bchgjbjm,m,mn
+    [content] => xbxbdfsdjklhgdfszfgdfhgchfchdS
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+    [created_at] => 2025-05-01 20:19:30
+    [updated_at] => 2025-05-01 21:45:27
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:40:02] Found 1 comments
+[2025-05-01 18:40:02] Post has 1 likes
+[2025-05-01 18:40:02] User has liked the post
+[2025-05-01 18:40:02] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:40:02] Decoded as array with 4 images
+[2025-05-01 18:40:02] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+[2025-05-01 18:40:02] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+[2025-05-01 18:40:02] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+[2025-05-01 18:40:02] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+[2025-05-01 18:40:02] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+    [1] => /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+    [2] => /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+    [3] => /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+)
+
+[2025-05-01 18:40:02] Final JSON response: {"status":"success","post":{"id":"4","title":"bchgjbjm,m,mn","content":"xbxbdfsdjklhgdfszfgdfhgchfchdS","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 20:19:30","updated_at":"2025-05-01 21:45:27","images":["/anti-ragging-platform/api/uploads/posts/68139a859ba69.png","/anti-ragging-platform/api/uploads/posts/68139a85a36ad.png","/anti-ragging-platform/api/uploads/posts/68139a85aede2.png","/anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png"],"likes":...
+[2025-05-01 18:40:06] Create comment endpoint accessed
+[2025-05-01 18:40:06] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:06] Database connection successful
+[2025-05-01 18:40:06] Raw input received: {"post_id":"4","user_id":"2","content":"bn m,"}
+[2025-05-01 18:40:06] Decoded data: stdClass Object
+(
+    [post_id] => 4
+    [user_id] => 2
+    [content] => bn m,
+)
+
+[2025-05-01 18:40:06] Processing comment creation for post: 4 by user: 2
+[2025-05-01 18:40:06] Prepared query: INSERT INTO comments (post_id, user_id, content) VALUES (:post_id, :user_id, :content)
+[2025-05-01 18:40:06] Parameters bound
+[2025-05-01 18:40:06] Comment created successfully with ID: 15
+[2025-05-01 18:40:06] Retrieved user info: Array
+(
+    [name] => pasindu nimesha
+)
+
+[2025-05-01 18:40:11] Get post endpoint accessed
+[2025-05-01 18:40:11] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:11] Database connection successful
+[2025-05-01 18:40:11] Fetching post with ID: 4
+[2025-05-01 18:40:11] Post found: Array
+(
+    [id] => 4
+    [user_id] => 2
+    [title] => bchgjbjm,m,mn
+    [content] => xbxbdfsdjklhgdfszfgdfhgchfchdS
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+    [created_at] => 2025-05-01 20:19:30
+    [updated_at] => 2025-05-01 21:45:27
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:40:11] Found 2 comments
+[2025-05-01 18:40:11] Post has 1 likes
+[2025-05-01 18:40:11] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:40:11] Decoded as array with 4 images
+[2025-05-01 18:40:11] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+[2025-05-01 18:40:11] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+[2025-05-01 18:40:11] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+[2025-05-01 18:40:11] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+[2025-05-01 18:40:11] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+    [1] => /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+    [2] => /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+    [3] => /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+)
+
+[2025-05-01 18:40:11] Final JSON response: {"status":"success","post":{"id":"4","title":"bchgjbjm,m,mn","content":"xbxbdfsdjklhgdfszfgdfhgchfchdS","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 20:19:30","updated_at":"2025-05-01 21:45:27","images":["/anti-ragging-platform/api/uploads/posts/68139a859ba69.png","/anti-ragging-platform/api/uploads/posts/68139a85a36ad.png","/anti-ragging-platform/api/uploads/posts/68139a85aede2.png","/anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png"],"likes":...
+[2025-05-01 18:40:12] Get post endpoint accessed
+[2025-05-01 18:40:12] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:12] Database connection successful
+[2025-05-01 18:40:12] Fetching post with ID: 4
+[2025-05-01 18:40:12] User ID provided: 2
+[2025-05-01 18:40:12] Post found: Array
+(
+    [id] => 4
+    [user_id] => 2
+    [title] => bchgjbjm,m,mn
+    [content] => xbxbdfsdjklhgdfszfgdfhgchfchdS
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+    [created_at] => 2025-05-01 20:19:30
+    [updated_at] => 2025-05-01 21:45:27
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:40:12] Found 2 comments
+[2025-05-01 18:40:12] Post has 1 likes
+[2025-05-01 18:40:12] User has liked the post
+[2025-05-01 18:40:12] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:40:12] Decoded as array with 4 images
+[2025-05-01 18:40:12] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+[2025-05-01 18:40:12] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+[2025-05-01 18:40:12] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+[2025-05-01 18:40:12] Using relative URL: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+[2025-05-01 18:40:12] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/68139a859ba69.png
+    [1] => /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png
+    [2] => /anti-ragging-platform/api/uploads/posts/68139a85aede2.png
+    [3] => /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png
+)
+
+[2025-05-01 18:40:12] Final JSON response: {"status":"success","post":{"id":"4","title":"bchgjbjm,m,mn","content":"xbxbdfsdjklhgdfszfgdfhgchfchdS","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 20:19:30","updated_at":"2025-05-01 21:45:27","images":["/anti-ragging-platform/api/uploads/posts/68139a859ba69.png","/anti-ragging-platform/api/uploads/posts/68139a85a36ad.png","/anti-ragging-platform/api/uploads/posts/68139a85aede2.png","/anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png"],"likes":...
+[2025-05-01 18:40:25] Get statistics endpoint accessed
+[2025-05-01 18:40:25] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:25] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:25] Database connection successful
+[2025-05-01 18:40:25] Database connection successful
+[2025-05-01 18:40:25] Fetching 3 recent posts
+[2025-05-01 18:40:25] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:40:25] Get trending posts endpoint accessed
+[2025-05-01 18:40:25] Attempting database connection to anti_ragging_db on localhost
+loads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:40:25] Database connection successful
+[2025-05-01 18:40:25] Fetching 3 trending posts
+[2025-05-01 18:40:25] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:40:25] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:40:27] Get statistics endpoint accessed
+[2025-05-01 18:40:27] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:27] Get recent posts endpoint accessed
+[2025-05-01 18:40:27] Get trending posts endpoint accessed
+[2025-05-01 18:40:27] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:27] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:28] Database connection successful
+[2025-05-01 18:40:28] Fetching 3 recent posts
+[2025-05-01 18:40:28] Fetching 3 trending posts
+[2025-05-01 18:40:28] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:40:28] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:40:28] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:40:28] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:40:28] Database connection successful
+[2025-05-01 18:40:47] Get statistics endpoint accessed
+[2025-05-01 18:40:47] Get recent posts endpoint accessed
+[2025-05-01 18:40:47] Get trending posts endpoint accessed
+[2025-05-01 18:40:47] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:47] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:47] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:40:47] Database connection successful
+[2025-05-01 18:40:47] Database connection successful
+[2025-05-01 18:40:47] Database connection successful
+[2025-05-01 18:40:47] Fetching 3 recent posts
+[2025-05-01 18:40:47] Fetching 3 trending posts
+[2025-05-01 18:40:47] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:40:47] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:40:47] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:40:47] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:43:52] Get statistics endpoint accessed
+[2025-05-01 18:43:52] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:43:52] Get trending posts endpoint accessed
+[2025-05-01 18:43:52] Database connection successful
+[2025-05-01 18:43:52] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:43:52] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:43:52] Database connection successful
+[2025-05-01 18:43:52] Fetching 3 recent posts
+[2025-05-01 18:43:52] Fetching 3 trending posts
+[2025-05-01 18:43:52] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:43:52] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:43:52] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:43:52] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:49:51] Get post endpoint accessed
+[2025-05-01 18:49:51] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:49:51] Database connection successful
+[2025-05-01 18:49:51] Fetching post with ID: 3
+[2025-05-01 18:49:51] Post found: Array
+(
+    [id] => 3
+    [user_id] => 1
+    [title] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා ....
+    [content] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා මුන්ගේ අම්මලාව බදාගන හිනාවෙලා ඉන්න හැටි කා*&ලකන්නි පි*න්නයෝ ටික.... නිදහස් අධ්‍යාපනය දිනේවා කියලත් දාලා එකෙක් 🤣🤣🤣
+සීද්දිය දන්නැති අයට 
+https://www.facebook.com/share/p/g3YVpXvB7Pa4SUKX/?mibextid=xfxF2i
+    [category] => physical
+    [institution] => University of Sri Jayewardenepura
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+    [created_at] => 2025-05-01 18:35:54
+    [updated_at] => 2025-05-01 18:35:54
+    [user_name] => Imesh Dias
+)
+
+[2025-05-01 18:49:51] Found 4 comments
+[2025-05-01 18:49:51] Post has 2 likes
+[2025-05-01 18:49:51] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:49:51] Decoded as array with 2 images
+[2025-05-01 18:49:51] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+[2025-05-01 18:49:51] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+[2025-05-01 18:49:51] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+    [1] => /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+)
+
+[2025-05-01 18:49:51] Final JSON response: {"status":"success","post":{"id":"3","title":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf ....","content":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf \...
+[2025-05-01 18:49:51] Get post endpoint accessed
+[2025-05-01 18:49:51] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:49:51] Database connection successful
+[2025-05-01 18:49:51] Fetching post with ID: 3
+[2025-05-01 18:49:51] User ID provided: 2
+[2025-05-01 18:49:51] Post found: Array
+(
+    [id] => 3
+    [user_id] => 1
+    [title] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා ....
+    [content] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා මුන්ගේ අම්මලාව බදාගන හිනාවෙලා ඉන්න හැටි කා*&ලකන්නි පි*න්නයෝ ටික.... නිදහස් අධ්‍යාපනය දිනේවා කියලත් දාලා එකෙක් 🤣🤣🤣
+සීද්දිය දන්නැති අයට 
+https://www.facebook.com/share/p/g3YVpXvB7Pa4SUKX/?mibextid=xfxF2i
+    [category] => physical
+    [institution] => University of Sri Jayewardenepura
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+    [created_at] => 2025-05-01 18:35:54
+    [updated_at] => 2025-05-01 18:35:54
+    [user_name] => Imesh Dias
+)
+
+[2025-05-01 18:49:51] Found 4 comments
+[2025-05-01 18:49:51] Post has 2 likes
+[2025-05-01 18:49:51] User has liked the post
+[2025-05-01 18:49:51] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:49:51] Decoded as array with 2 images
+[2025-05-01 18:49:51] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+[2025-05-01 18:49:51] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+[2025-05-01 18:49:51] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+    [1] => /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+)
+
+[2025-05-01 18:49:51] Final JSON response: {"status":"success","post":{"id":"3","title":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf ....","content":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf \...
+[2025-05-01 18:50:19] Create comment endpoint accessed
+[2025-05-01 18:50:19] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:50:19] Database connection successful
+[2025-05-01 18:50:19] Raw input received: {"post_id":"3","user_id":"2","content":"jbgjb"}
+[2025-05-01 18:50:19] Decoded data: stdClass Object
+(
+    [post_id] => 3
+    [user_id] => 2
+    [content] => jbgjb
+)
+
+[2025-05-01 18:50:19] Processing comment creation for post: 3 by user: 2
+[2025-05-01 18:50:19] Prepared query: INSERT INTO comments (post_id, user_id, content) VALUES (:post_id, :user_id, :content)
+[2025-05-01 18:50:19] Parameters bound
+[2025-05-01 18:50:19] Comment created successfully with ID: 16
+[2025-05-01 18:50:19] Retrieved user info: Array
+(
+    [name] => pasindu nimesha
+)
+
+[2025-05-01 18:50:37] Delete comment endpoint accessed
+[2025-05-01 18:50:37] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:50:37] Database connection successful
+[2025-05-01 18:50:37] Raw input received: {"comment_id":"16","user_id":"2"}
+[2025-05-01 18:50:37] Comment 16 deleted successfully by user 2
+[2025-05-01 18:50:45] Toggle support endpoint accessed
+[2025-05-01 18:50:45] OPTIONS request received
+[2025-05-01 18:50:45] Toggle support endpoint accessed
+[2025-05-01 18:50:45] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:50:45] Database connection successful
+[2025-05-01 18:50:45] Raw input received: {"post_id":"3","user_id":"2"}
+[2025-05-01 18:50:45] Decoded data: stdClass Object
+(
+    [post_id] => 3
+    [user_id] => 2
+)
+
+[2025-05-01 18:50:45] Processing toggle support for post: 3 by user: 2
+[2025-05-01 18:50:45] Support exists (ID: 16) - removing it
+[2025-05-01 18:50:45] Support removed successfully
+[2025-05-01 18:50:47] Toggle support endpoint accessed
+[2025-05-01 18:50:47] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:50:47] Database connection successful
+[2025-05-01 18:50:47] Raw input received: {"post_id":"3","user_id":"2"}
+[2025-05-01 18:50:47] Decoded data: stdClass Object
+(
+    [post_id] => 3
+    [user_id] => 2
+)
+
+[2025-05-01 18:50:47] Processing toggle support for post: 3 by user: 2
+[2025-05-01 18:50:47] Support doesn't exist - adding it
+[2025-05-01 18:50:47] Support added successfully
+[2025-05-01 18:51:19] Posts read endpoint accessed
+[2025-05-01 18:51:19] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:51:19] Database connection successful
+[2025-05-01 18:51:19] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:51:19] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:51:28] Get user posts endpoint accessed
+[2025-05-01 18:51:28] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:51:28] Database connection successful
+[2025-05-01 18:51:28] Fetching posts for user ID: 2
+[2025-05-01 18:51:28] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:51:28] Successfully decoded JSON images
+[2025-05-01 18:51:28] Decoded as array: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:51:28] Using only filename: /anti-ragging-platform/api/uploads/posts/68139a859ba69.png -> 68139a859ba69.png
+[2025-05-01 18:51:28] Image filename for front-end: 68139a859ba69.png
+[2025-05-01 18:51:28] Using only filename: /anti-ragging-platform/api/uploads/posts/68139a85a36ad.png -> 68139a85a36ad.png
+[2025-05-01 18:51:28] Image filename for front-end: 68139a85a36ad.png
+[2025-05-01 18:51:28] Using only filename: /anti-ragging-platform/api/uploads/posts/68139a85aede2.png -> 68139a85aede2.png
+[2025-05-01 18:51:28] Image filename for front-end: 68139a85aede2.png
+[2025-05-01 18:51:28] Using only filename: /anti-ragging-platform/api/uploads/posts/68139a85b8c0a.png -> 68139a85b8c0a.png
+[2025-05-01 18:51:28] Image filename for front-end: 68139a85b8c0a.png
+[2025-05-01 18:51:28] Final image filenames: ["68139a859ba69.png","68139a85a36ad.png","68139a85aede2.png","68139a85b8c0a.png"]
+[2025-05-01 18:51:28] Found 1 posts for user
+[2025-05-01 18:51:56] Image upload endpoint accessed
+[2025-05-01 18:51:56] Image received: wallpaper1.jpg
+[2025-05-01 18:51:56] File details - Name: wallpaper1.jpg, Type: image/jpeg, Size: 1814580
+[2025-05-01 18:51:56] Attempting to save file to: C:\xampp\htdocs\anti-ragging-platform\api\uploads\posts\6813a6acba13f.jpg
+[2025-05-01 18:51:56] File uploaded successfully
+[2025-05-01 18:51:56] Public path: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 18:51:56] Create post endpoint accessed
+[2025-05-01 18:51:56] OPTIONS request received
+[2025-05-01 18:51:56] Create post endpoint accessed
+[2025-05-01 18:51:56] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:51:56] Database connection successful
+[2025-05-01 18:51:56] Raw input received: {"user_id":"2","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]}
+[2025-05-01 18:51:56] Decoded data: stdClass Object
+(
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => Array
+        (
+            [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+        )
+
+)
+
+[2025-05-01 18:51:56] Processing post creation request
+[2025-05-01 18:51:56] Processed images: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:51:56] Prepared query: INSERT INTO posts (user_id, title, content, category, institution, images) 
+                  VALUES (:user_id, :title, :content, :category, :institution, :images)
+[2025-05-01 18:51:56] Parameters bound
+[2025-05-01 18:51:56] Post created successfully with ID: 6
+[2025-05-01 18:51:57] Posts read endpoint accessed
+[2025-05-01 18:51:57] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:51:57] Database connection successful
+[2025-05-01 18:51:57] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:51:57] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:51:57] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:52:01] Get user posts endpoint accessed
+[2025-05-01 18:52:01] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:01] Database connection successful
+[2025-05-01 18:52:01] Fetching posts for user ID: 2
+[2025-05-01 18:52:01] Count only mode requested
+[2025-05-01 18:52:01] User 2 has 2 posts
+[2025-05-01 18:52:04] Update profile endpoint accessed
+[2025-05-01 18:52:04] OPTIONS request received
+[2025-05-01 18:52:04] Update profile endpoint accessed
+[2025-05-01 18:52:04] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:04] Database connection successful
+[2025-05-01 18:52:04] Raw input received: {"id":"2","name":"pasindu nimesha","email":"pasindu@gmail.com"}
+[2025-05-01 18:52:04] Decoded data: stdClass Object
+(
+    [id] => 2
+    [name] => pasindu nimesha
+    [email] => pasindu@gmail.com
+)
+
+[2025-05-01 18:52:04] Checking if email already exists for another user
+[2025-05-01 18:52:04] Prepared query: UPDATE users SET name = :name, email = :email WHERE id = :id
+[2025-05-01 18:52:04] Parameters bound
+[2025-05-01 18:52:04] Profile updated successfully for user ID: 2
+[2025-05-01 18:52:09] Get statistics endpoint accessed
+[2025-05-01 18:52:09] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:09] Get recent posts endpoint accessed
+[2025-05-01 18:52:09] Database connection successful
+o anti_ragging_db on localhost
+[2025-05-01 18:52:09] Database connection successful
+[2025-05-01 18:52:09] Fetching 3 recent posts
+[2025-05-01 18:52:09] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:52:09] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:52:09] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:52:09] Get trending posts endpoint accessed
+[2025-05-01 18:52:09] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:09] Database connection successful
+[2025-05-01 18:52:09] Fetching 3 trending posts
+[2025-05-01 18:52:09] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:52:09] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:52:09] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:52:17] Get post endpoint accessed
+[2025-05-01 18:52:17] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:17] Database connection successful
+[2025-05-01 18:52:17] Fetching post with ID: 6
+[2025-05-01 18:52:17] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:52:17] Found 0 comments
+[2025-05-01 18:52:17] Post has 0 likes
+[2025-05-01 18:52:17] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:52:17] Decoded as array with 1 images
+[2025-05-01 18:52:17] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 18:52:17] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 18:52:17] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"0","user_liked":false,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 18:52:17] Get post endpoint accessed
+[2025-05-01 18:52:17] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:17] Database connection successful
+[2025-05-01 18:52:17] Fetching post with ID: 6
+[2025-05-01 18:52:17] User ID provided: 2
+[2025-05-01 18:52:17] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:52:17] Found 0 comments
+[2025-05-01 18:52:17] Post has 0 likes
+[2025-05-01 18:52:17] User has not liked the post
+[2025-05-01 18:52:17] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:52:17] Decoded as array with 1 images
+[2025-05-01 18:52:17] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 18:52:17] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 18:52:17] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"0","user_liked":false,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 18:52:18] Toggle support endpoint accessed
+[2025-05-01 18:52:18] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:18] Database connection successful
+[2025-05-01 18:52:18] Raw input received: {"post_id":"6","user_id":"2"}
+[2025-05-01 18:52:18] Decoded data: stdClass Object
+(
+    [post_id] => 6
+    [user_id] => 2
+)
+
+[2025-05-01 18:52:18] Processing toggle support for post: 6 by user: 2
+[2025-05-01 18:52:18] Support doesn't exist - adding it
+[2025-05-01 18:52:18] Support added successfully
+[2025-05-01 18:52:20] Posts read endpoint accessed
+[2025-05-01 18:52:20] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:20] Database connection successful
+[2025-05-01 18:52:21] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:52:21] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:52:21] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:52:25] Get statistics endpoint accessed
+[2025-05-01 18:52:25] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:25] Database connection successful
+[2025-05-01 18:52:25] Get recent posts endpoint accessed
+[2025-05-01 18:52:25] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:25] Get trending posts endpoint accessed
+[2025-05-01 18:52:25] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:25] Database connection successful
+[2025-05-01 18:52:25] Database connection successful
+[2025-05-01 18:52:25] Fetching 3 trending posts
+[2025-05-01 18:52:25] Fetching 3 recent posts
+[2025-05-01 18:52:25] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:52:25] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:52:25] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:52:25] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:52:25] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:52:30] Get post endpoint accessed
+[2025-05-01 18:52:30] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:30] Database connection successful
+[2025-05-01 18:52:30] Fetching post with ID: 6
+[2025-05-01 18:52:30] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 18:52:30] Found 0 comments
+[2025-05-01 18:52:30] Post has 1 likes
+[2025-05-01 18:52:30] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:52:30] Decoded as array with 1 images
+[2025-05-01 18:52:30] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 18:52:30] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 18:52:30] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"1","user_liked":false,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 18:52:48] Posts read endpoint accessed
+[2025-05-01 18:52:48] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:52:48] Database connection successful
+[2025-05-01 18:52:48] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:52:48] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:52:48] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:53:34] Login endpoint accessed
+[2025-05-01 18:53:34] OPTIONS request received
+[2025-05-01 18:53:34] Login endpoint accessed
+[2025-05-01 18:53:34] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:53:34] Database connection successful
+[2025-05-01 18:53:34] Raw input received: {"email":"graslydias@gmail.com","password":"Imesh2001"}
+[2025-05-01 18:53:34] Decoded data: stdClass Object
+(
+    [email] => graslydias@gmail.com
+    [password] => Imesh2001
+)
+
+[2025-05-01 18:53:34] Checking credentials for email: graslydias@gmail.com
+[2025-05-01 18:53:34] Query executed, checking user
+[2025-05-01 18:53:34] User found, verifying password
+[2025-05-01 18:53:34] Password verified, login successful
+[2025-05-01 18:53:36] Get user posts endpoint accessed
+[2025-05-01 18:53:36] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:53:36] Database connection successful
+[2025-05-01 18:53:36] Fetching posts for user ID: 1
+[2025-05-01 18:53:36] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:53:36] Successfully decoded JSON images
+[2025-05-01 18:53:36] Decoded as array: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:53:36] Using only filename: /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png -> 681371b1e0f9f.png
+[2025-05-01 18:53:36] Image filename for front-end: 681371b1e0f9f.png
+[2025-05-01 18:53:36] Using only filename: /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png -> 681371b1e9bb1.png
+[2025-05-01 18:53:36] Image filename for front-end: 681371b1e9bb1.png
+[2025-05-01 18:53:36] Final image filenames: ["681371b1e0f9f.png","681371b1e9bb1.png"]
+[2025-05-01 18:53:36] Found 1 posts for user
+[2025-05-01 18:53:39] Get post endpoint accessed
+[2025-05-01 18:53:39] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:53:39] Database connection successful
+[2025-05-01 18:53:39] Fetching post with ID: 3
+[2025-05-01 18:53:39] Post found: Array
+(
+    [id] => 3
+    [user_id] => 1
+    [title] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා ....
+    [content] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා මුන්ගේ අම්මලාව බදාගන හිනාවෙලා ඉන්න හැටි කා*&ලකන්නි පි*න්නයෝ ටික.... නිදහස් අධ්‍යාපනය දිනේවා කියලත් දාලා එකෙක් 🤣🤣🤣
+සීද්දිය දන්නැති අයට 
+https://www.facebook.com/share/p/g3YVpXvB7Pa4SUKX/?mibextid=xfxF2i
+    [category] => physical
+    [institution] => University of Sri Jayewardenepura
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+    [created_at] => 2025-05-01 18:35:54
+    [updated_at] => 2025-05-01 18:35:54
+    [user_name] => Imesh Dias
+)
+
+[2025-05-01 18:53:39] Found 4 comments
+[2025-05-01 18:53:39] Post has 2 likes
+[2025-05-01 18:53:39] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:53:39] Decoded as array with 2 images
+[2025-05-01 18:53:39] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+[2025-05-01 18:53:39] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+[2025-05-01 18:53:39] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+    [1] => /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+)
+
+[2025-05-01 18:53:39] Final JSON response: {"status":"success","post":{"id":"3","title":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf ....","content":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf \...
+[2025-05-01 18:53:39] Get post endpoint accessed
+[2025-05-01 18:53:39] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:53:39] Database connection successful
+[2025-05-01 18:53:39] Fetching post with ID: 3
+[2025-05-01 18:53:39] User ID provided: 1
+[2025-05-01 18:53:39] Post found: Array
+(
+    [id] => 3
+    [user_id] => 1
+    [title] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා ....
+    [content] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා මුන්ගේ අම්මලාව බදාගන හිනාවෙලා ඉන්න හැටි කා*&ලකන්නි පි*න්නයෝ ටික.... නිදහස් අධ්‍යාපනය දිනේවා කියලත් දාලා එකෙක් 🤣🤣🤣
+සීද්දිය දන්නැති අයට 
+https://www.facebook.com/share/p/g3YVpXvB7Pa4SUKX/?mibextid=xfxF2i
+    [category] => physical
+    [institution] => University of Sri Jayewardenepura
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+    [created_at] => 2025-05-01 18:35:54
+    [updated_at] => 2025-05-01 18:35:54
+    [user_name] => Imesh Dias
+)
+
+[2025-05-01 18:53:39] Found 4 comments
+[2025-05-01 18:53:39] Post has 2 likes
+[2025-05-01 18:53:39] User has liked the post
+[2025-05-01 18:53:39] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:53:39] Decoded as array with 2 images
+[2025-05-01 18:53:39] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+[2025-05-01 18:53:39] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+[2025-05-01 18:53:39] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+    [1] => /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+)
+
+[2025-05-01 18:53:39] Final JSON response: {"status":"success","post":{"id":"3","title":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf ....","content":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf \...
+[2025-05-01 18:53:48] Get post endpoint accessed
+[2025-05-01 18:53:48] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:53:48] Database connection successful
+[2025-05-01 18:53:48] Fetching post with ID: 3
+[2025-05-01 18:53:48] Post found: Array
+(
+    [id] => 3
+    [user_id] => 1
+    [title] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා ....
+    [content] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා මුන්ගේ අම්මලාව බදාගන හිනාවෙලා ඉන්න හැටි කා*&ලකන්නි පි*න්නයෝ ටික.... නිදහස් අධ්‍යාපනය දිනේවා කියලත් දාලා එකෙක් 🤣🤣🤣
+සීද්දිය දන්නැති අයට 
+https://www.facebook.com/share/p/g3YVpXvB7Pa4SUKX/?mibextid=xfxF2i
+    [category] => physical
+    [institution] => University of Sri Jayewardenepura
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+    [created_at] => 2025-05-01 18:35:54
+    [updated_at] => 2025-05-01 18:35:54
+    [user_name] => Imesh Dias
+)
+
+[2025-05-01 18:53:48] Found 4 comments
+[2025-05-01 18:53:48] Post has 2 likes
+[2025-05-01 18:53:48] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:53:48] Decoded as array with 2 images
+[2025-05-01 18:53:48] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+[2025-05-01 18:53:48] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+[2025-05-01 18:53:48] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+    [1] => /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+)
+
+[2025-05-01 18:53:48] Final JSON response: {"status":"success","post":{"id":"3","title":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf ....","content":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf \...
+[2025-05-01 18:53:52] Update post endpoint accessed
+[2025-05-01 18:53:52] OPTIONS request received
+[2025-05-01 18:53:52] Update post endpoint accessed
+[2025-05-01 18:53:52] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:53:52] Database connection successful
+[2025-05-01 18:53:52] Raw input received: {"post_id":"3","user_id":"1","title":"මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා ....","content":"මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා මුන්ගේ අම්මලාව බදාගන හිනාවෙලා ඉන්න හැටි කා*&ලකන්නි පි*න්නයෝ ටික.... නිදහස් අධ්‍යාපනය දිනේවා කියලත් දාලා එකෙක් 🤣🤣🤣\nසීද්දිය දන්නැති අයට \nhttps://www.facebook.com/share/p/g3YVpXvB7Pa4SUKX/?mibextid=xfxF2i","category":"physical","institution":"University of Sri Jayewardenepura","images":["/anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png","/anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png"]}
+[2025-05-01 18:53:52] Post 3 updated successfully by user 1
+[2025-05-01 18:53:53] Get post endpoint accessed
+[2025-05-01 18:53:53] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:53:53] Get post endpoint accessed
+[2025-05-01 18:53:53] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:53:53] Database connection successful
+[2025-05-01 18:53:53] Fetching post with ID: 3
+[2025-05-01 18:53:53] Post found: Array
+(
+    [id] => 3
+    [user_id] => 1
+    [title] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා ....
+    [content] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා මුන්ගේ අම්මලාව බදාගන හිනාවෙලා ඉන්න හැටි කා*&ලකන්නි පි*න්නයෝ ටික.... නිදහස් අධ්‍යාපනය දිනේවා කියලත් දාලා එකෙක් 🤣🤣🤣
+සීද්දිය දන්නැති අයට 
+https://www.facebook.com/share/p/g3YVpXvB7Pa4SUKX/?mibextid=xfxF2i
+    [category] => physical
+    [institution] => University of Sri Jayewardenepura
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+    [created_at] => 2025-05-01 18:35:54
+    [updated_at] => 2025-05-01 22:23:52
+    [user_name] => Imesh Dias
+)
+
+[2025-05-01 18:53:53] Database connection successful
+[2025-05-01 18:53:53] Fetching post with ID: 3
+[2025-05-01 18:53:53] User ID provided: 1
+[2025-05-01 18:53:53] Post has 2 likes
+[2025-05-01 18:53:53] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:53:53] Decoded as array with 2 images
+[2025-05-01 18:53:53] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+[2025-05-01 18:53:53] Post found: Array
+(
+    [id] => 3
+    [user_id] => 1
+    [title] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා ....
+    [content] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා මුන්ගේ අම්මලාව බදාගන හිනාවෙලා ඉන්න හැටි කා*&ලකන්නි පි*න්නයෝ ටික.... නිදහස් අධ්‍යාපනය දිනේවා කියලත් දාලා එකෙක් 🤣🤣🤣
+සීද්දිය දන්නැති අයට 
+https://www.facebook.com/share/p/g3YVpXvB7Pa4SUKX/?mibextid=xfxF2i
+    [category] => physical
+    [institution] => University of Sri Jayewardenepura
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+    [created_at] => 2025-05-01 18:35:54
+    [updated_at] => 2025-05-01 22:23:52
+    [user_name] => Imesh Dias
+)
+
+[2025-05-01 18:53:53] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+[2025-05-01 18:53:53] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+    [1] => /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+)
+
+[2025-05-01 18:53:53] Final JSON response: {"status":"success","post":{"id":"3","title":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf ....","content":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf \...
+[2025-05-01 18:53:53] Found 4 comments
+[2025-05-01 18:53:53] Post has 2 likes
+[2025-05-01 18:53:53] User has liked the post
+[2025-05-01 18:53:53] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:53:53] Decoded as array with 2 images
+[2025-05-01 18:53:53] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+[2025-05-01 18:53:53] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+[2025-05-01 18:53:53] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+    [1] => /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+)
+
+[2025-05-01 18:53:53] Final JSON response: {"status":"success","post":{"id":"3","title":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf ....","content":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf \...
+[2025-05-01 18:54:09] Get post endpoint accessed
+[2025-05-01 18:54:09] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:54:09] Database connection successful
+[2025-05-01 18:54:09] Fetching post with ID: 3
+[2025-05-01 18:54:09] Post found: Array
+(
+    [id] => 3
+    [user_id] => 1
+    [title] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා ....
+    [content] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා මුන්ගේ අම්මලාව බදාගන හිනාවෙලා ඉන්න හැටි කා*&ලකන්නි පි*න්නයෝ ටික.... නිදහස් අධ්‍යාපනය දිනේවා කියලත් දාලා එකෙක් 🤣🤣🤣
+සීද්දිය දන්නැති අයට 
+https://www.facebook.com/share/p/g3YVpXvB7Pa4SUKX/?mibextid=xfxF2i
+    [category] => physical
+    [institution] => University of Sri Jayewardenepura
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+    [created_at] => 2025-05-01 18:35:54
+    [updated_at] => 2025-05-01 22:23:52
+    [user_name] => Imesh Dias
+)
+
+[2025-05-01 18:54:09] Found 4 comments
+[2025-05-01 18:54:09] Post has 2 likes
+[2025-05-01 18:54:09] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:54:09] Decoded as array with 2 images
+[2025-05-01 18:54:09] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+[2025-05-01 18:54:09] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+[2025-05-01 18:54:09] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+    [1] => /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+)
+
+[2025-05-01 18:54:09] Final JSON response: {"status":"success","post":{"id":"3","title":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf ....","content":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf \...
+[2025-05-01 18:54:09] Get post endpoint accessed
+[2025-05-01 18:54:09] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:54:09] Database connection successful
+[2025-05-01 18:54:09] Fetching post with ID: 3
+[2025-05-01 18:54:09] User ID provided: 1
+[2025-05-01 18:54:09] Post found: Array
+(
+    [id] => 3
+    [user_id] => 1
+    [title] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා ....
+    [content] => මතකද මුන්ව අපේ අම්මලාගේ ඇස් වලට කඳුලු දීලා මුන්ගේ අම්මලාව බදාගන හිනාවෙලා ඉන්න හැටි කා*&ලකන්නි පි*න්නයෝ ටික.... නිදහස් අධ්‍යාපනය දිනේවා කියලත් දාලා එකෙක් 🤣🤣🤣
+සීද්දිය දන්නැති අයට 
+https://www.facebook.com/share/p/g3YVpXvB7Pa4SUKX/?mibextid=xfxF2i
+    [category] => physical
+    [institution] => University of Sri Jayewardenepura
+    [images] => ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+    [created_at] => 2025-05-01 18:35:54
+    [updated_at] => 2025-05-01 22:23:52
+    [user_name] => Imesh Dias
+)
+
+[2025-05-01 18:54:09] Found 4 comments
+[2025-05-01 18:54:09] Post has 2 likes
+[2025-05-01 18:54:09] User has liked the post
+[2025-05-01 18:54:09] Raw images data: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:54:09] Decoded as array with 2 images
+[2025-05-01 18:54:09] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+[2025-05-01 18:54:09] Using relative URL: /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+[2025-05-01 18:54:09] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/681371b1e0f9f.png
+    [1] => /anti-ragging-platform/api/uploads/posts/681371b1e9bb1.png
+)
+
+[2025-05-01 18:54:09] Final JSON response: {"status":"success","post":{"id":"3","title":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf ....","content":"\u0db8\u0dad\u0d9a\u0daf \u0db8\u0dd4\u0db1\u0dca\u0dc0 \u0d85\u0db4\u0dda \u0d85\u0db8\u0dca\u0db8\u0dbd\u0dcf\u0d9c\u0dda \u0d87\u0dc3\u0dca \u0dc0\u0dbd\u0da7 \u0d9a\u0db3\u0dd4\u0dbd\u0dd4 \u0daf\u0dd3\u0dbd\u0dcf \...
+[2025-05-01 18:56:47] Get statistics endpoint accessed
+[2025-05-01 18:56:47] Get recent posts endpoint accessed
+[2025-05-01 18:56:47] Get trending posts endpoint accessed
+[2025-05-01 18:56:47] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:56:47] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:56:47] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:56:47] Database connection successful
+[2025-05-01 18:56:47] Database connection successful
+[2025-05-01 18:56:47] Fetching 3 recent posts
+
+[2025-05-01 18:56:47] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:56:47] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:56:47] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:56:47] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:56:47] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:56:47] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:57:01] Posts read endpoint accessed
+[2025-05-01 18:57:01] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:57:01] Database connection successful
+[2025-05-01 18:57:01] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 18:57:01] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 18:57:01] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 18:57:10] Get user posts endpoint accessed
+[2025-05-01 18:57:10] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:57:10] Database connection successful
+[2025-05-01 18:57:10] Fetching posts for user ID: 1
+[2025-05-01 18:57:10] Count only mode requested
+[2025-05-01 18:57:10] User 1 has 1 posts
+[2025-05-01 18:59:47] Get user posts endpoint accessed
+[2025-05-01 18:59:47] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 18:59:47] Database connection successful
+[2025-05-01 18:59:47] Fetching posts for user ID: 1
+[2025-05-01 18:59:47] Count only mode requested
+[2025-05-01 18:59:47] User 1 has 1 posts
+[2025-05-01 19:04:40] Get statistics endpoint accessed
+[2025-05-01 19:04:40] Get trending posts endpoint accessed
+[2025-05-01 19:04:40] Get recent posts endpoint accessed
+[2025-05-01 19:04:40] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:04:40] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:04:40] Database connection successful
+[2025-05-01 19:04:40] Fetching 3 trending posts
+[2025-05-01 19:04:40] Database connection successful
+[2025-05-01 19:04:40] Fetching 3 recent posts
+[2025-05-01 19:04:40] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:04:40] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 19:04:40] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 19:04:40] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+g","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 19:04:40] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 19:04:40] Database connection successful
+[2025-05-01 19:05:20] Get post endpoint accessed
+[2025-05-01 19:05:20] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:05:20] Database connection successful
+[2025-05-01 19:05:20] Fetching post with ID: 6
+[2025-05-01 19:05:20] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:05:20] Found 0 comments
+[2025-05-01 19:05:20] Post has 1 likes
+[2025-05-01 19:05:20] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:05:20] Decoded as array with 1 images
+[2025-05-01 19:05:20] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:05:20] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:05:20] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"1","user_liked":false,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:05:20] Get post endpoint accessed
+[2025-05-01 19:05:20] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:05:20] Database connection successful
+[2025-05-01 19:05:20] Fetching post with ID: 6
+[2025-05-01 19:05:20] User ID provided: 1
+[2025-05-01 19:05:20] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:05:20] Found 0 comments
+[2025-05-01 19:05:20] Post has 1 likes
+[2025-05-01 19:05:20] User has not liked the post
+[2025-05-01 19:05:20] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:05:20] Decoded as array with 1 images
+[2025-05-01 19:05:20] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:05:20] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:05:20] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"1","user_liked":false,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:05:23] Toggle support endpoint accessed
+[2025-05-01 19:05:23] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:05:23] Database connection successful
+[2025-05-01 19:05:23] Raw input received: {"post_id":"6","user_id":"1"}
+[2025-05-01 19:05:23] Decoded data: stdClass Object
+(
+    [post_id] => 6
+    [user_id] => 1
+)
+
+[2025-05-01 19:05:23] Processing toggle support for post: 6 by user: 1
+[2025-05-01 19:05:23] Support doesn't exist - adding it
+[2025-05-01 19:05:23] Support added successfully
+[2025-05-01 19:06:27] Get post endpoint accessed
+[2025-05-01 19:06:27] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:06:27] Database connection successful
+[2025-05-01 19:06:27] Fetching post with ID: 6
+[2025-05-01 19:06:27] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:06:27] Found 0 comments
+[2025-05-01 19:06:27] Post has 2 likes
+[2025-05-01 19:06:27] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:06:27] Decoded as array with 1 images
+[2025-05-01 19:06:27] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:06:27] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:06:27] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"2","user_liked":false,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:06:27] Get post endpoint accessed
+[2025-05-01 19:06:27] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:06:27] Database connection successful
+[2025-05-01 19:06:27] Fetching post with ID: 6
+[2025-05-01 19:06:27] User ID provided: 1
+[2025-05-01 19:06:27] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:06:27] Found 0 comments
+[2025-05-01 19:06:27] Post has 2 likes
+[2025-05-01 19:06:27] User has liked the post
+[2025-05-01 19:06:27] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:06:27] Decoded as array with 1 images
+[2025-05-01 19:06:27] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:06:27] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:06:27] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"2","user_liked":true,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:06:44] Get post endpoint accessed
+[2025-05-01 19:06:44] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:06:44] Database connection successful
+[2025-05-01 19:06:44] Fetching post with ID: 6
+[2025-05-01 19:06:44] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:06:44] Found 0 comments
+[2025-05-01 19:06:44] Post has 2 likes
+[2025-05-01 19:06:44] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:06:44] Decoded as array with 1 images
+[2025-05-01 19:06:44] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:06:44] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:06:45] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"2","user_liked":false,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:06:45] Get post endpoint accessed
+[2025-05-01 19:06:45] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:06:45] Database connection successful
+[2025-05-01 19:06:45] Fetching post with ID: 6
+[2025-05-01 19:06:45] User ID provided: 1
+[2025-05-01 19:06:45] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:06:45] Found 0 comments
+[2025-05-01 19:06:45] Post has 2 likes
+[2025-05-01 19:06:45] User has liked the post
+[2025-05-01 19:06:45] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:06:45] Decoded as array with 1 images
+[2025-05-01 19:06:45] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:06:45] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:06:45] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"2","user_liked":true,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:07:07] Get post endpoint accessed
+[2025-05-01 19:07:07] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:07:07] Database connection successful
+[2025-05-01 19:07:07] Fetching post with ID: 6
+[2025-05-01 19:07:07] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:07:07] Found 0 comments
+[2025-05-01 19:07:07] Post has 2 likes
+[2025-05-01 19:07:07] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:07:07] Decoded as array with 1 images
+[2025-05-01 19:07:07] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:07:07] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:07:07] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"2","user_liked":false,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:07:07] Get post endpoint accessed
+[2025-05-01 19:07:07] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:07:07] Database connection successful
+[2025-05-01 19:07:07] Fetching post with ID: 6
+[2025-05-01 19:07:07] User ID provided: 1
+[2025-05-01 19:07:07] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:07:07] Found 0 comments
+[2025-05-01 19:07:07] Post has 2 likes
+[2025-05-01 19:07:07] User has liked the post
+[2025-05-01 19:07:07] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:07:07] Decoded as array with 1 images
+[2025-05-01 19:07:07] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:07:07] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:07:07] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"2","user_liked":true,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:07:31] Get post endpoint accessed
+[2025-05-01 19:07:31] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:07:31] Database connection successful
+[2025-05-01 19:07:31] Fetching post with ID: 6
+[2025-05-01 19:07:31] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:07:31] Found 0 comments
+[2025-05-01 19:07:31] Post has 2 likes
+[2025-05-01 19:07:31] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:07:31] Decoded as array with 1 images
+[2025-05-01 19:07:31] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:07:31] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:07:31] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"2","user_liked":false,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:07:31] Get post endpoint accessed
+[2025-05-01 19:07:31] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:07:31] Database connection successful
+[2025-05-01 19:07:31] Fetching post with ID: 6
+[2025-05-01 19:07:31] User ID provided: 1
+[2025-05-01 19:07:31] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:07:31] Found 0 comments
+[2025-05-01 19:07:31] Post has 2 likes
+[2025-05-01 19:07:31] User has liked the post
+[2025-05-01 19:07:31] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:07:31] Decoded as array with 1 images
+[2025-05-01 19:07:31] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:07:31] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:07:31] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"2","user_liked":true,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:07:47] Posts read endpoint accessed
+[2025-05-01 19:07:47] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:07:47] Database connection successful
+[2025-05-01 19:07:47] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:07:47] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 19:07:47] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 19:07:55] Get post endpoint accessed
+[2025-05-01 19:07:55] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:07:55] Database connection successful
+[2025-05-01 19:07:55] Fetching post with ID: 6
+[2025-05-01 19:07:55] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:07:55] Found 0 comments
+[2025-05-01 19:07:55] Post has 2 likes
+[2025-05-01 19:07:55] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:07:55] Decoded as array with 1 images
+[2025-05-01 19:07:55] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:07:55] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:07:55] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"2","user_liked":false,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:07:55] Get post endpoint accessed
+[2025-05-01 19:07:55] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:07:55] Database connection successful
+[2025-05-01 19:07:55] Fetching post with ID: 6
+[2025-05-01 19:07:55] User ID provided: 1
+[2025-05-01 19:07:55] Post found: Array
+(
+    [id] => 6
+    [user_id] => 2
+    [title] => bvmb,n
+    [content] =>  vnbm ,
+    [category] => verbal
+    [institution] => University of Sabaragamuwa
+    [images] => ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+    [created_at] => 2025-05-01 22:21:56
+    [updated_at] => 2025-05-01 22:21:56
+    [user_name] => pasindu nimesha
+)
+
+[2025-05-01 19:07:55] Found 0 comments
+[2025-05-01 19:07:55] Post has 2 likes
+[2025-05-01 19:07:55] User has liked the post
+[2025-05-01 19:07:55] Raw images data: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:07:55] Decoded as array with 1 images
+[2025-05-01 19:07:55] Using relative URL: /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+[2025-05-01 19:07:55] Final images array: Array
+(
+    [0] => /anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg
+)
+
+[2025-05-01 19:07:55] Final JSON response: {"status":"success","post":{"id":"6","title":"bvmb,n","content":" vnbm ,","category":"verbal","institution":"University of Sabaragamuwa","created_at":"2025-05-01 22:21:56","updated_at":"2025-05-01 22:21:56","images":["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"],"likes":"2","user_liked":true,"user":{"id":"2","name":"pasindu nimesha"},"comments":[]}}
+[2025-05-01 19:08:00] Get statistics endpoint accessed
+[2025-05-01 19:08:00] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:08:00] Get recent posts endpoint accessed
+[2025-05-01 19:08:00] Get trending posts endpoint accessed
+[2025-05-01 19:08:00] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:08:00] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:08:00] Database connection successful
+[2025-05-01 19:08:00] Database connection successful
+[2025-05-01 19:08:00] Fetching 3 recent posts
+[2025-05-01 19:08:00] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:08:00] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 19:08:00] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 19:08:00] Database connection successful
+[2025-05-01 19:08:00] Fetching 3 trending posts
+[2025-05-01 19:08:00] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:08:00] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 19:08:00] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 19:08:08] Get recent posts endpoint accessed
+
+[2025-05-01 19:08:08] Get statistics endpoint accessed
+[2025-05-01 19:08:08] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:08:08] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:08:08] Database connection successful
+[2025-05-01 19:08:08] Fetching 3 trending posts
+[2025-05-01 19:08:08] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:08:08] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 19:08:08] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 19:08:08] Database connection successful
+[2025-05-01 19:08:08] Fetching 3 recent posts
+[2025-05-01 19:08:08] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:08:08] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 19:08:08] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]
+[2025-05-01 19:08:12] Posts read endpoint accessed
+[2025-05-01 19:08:13] Attempting database connection to anti_ragging_db on localhost
+[2025-05-01 19:08:13] Database connection successful
+[2025-05-01 19:08:13] Processing images for post 6: ["/anti-ragging-platform/api/uploads/posts/6813a6acba13f.jpg"]
+[2025-05-01 19:08:13] Processing images for post 4: ["\/anti-ragging-platform\/api\/uploads\/posts\/68139a859ba69.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85a36ad.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85aede2.png","\/anti-ragging-platform\/api\/uploads\/posts\/68139a85b8c0a.png"]
+[2025-05-01 19:08:13] Processing images for post 3: ["\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e0f9f.png","\/anti-ragging-platform\/api\/uploads\/posts\/681371b1e9bb1.png"]

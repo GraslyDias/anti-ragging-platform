@@ -1,5 +1,5 @@
 // API Configuration
-const DEV_API_URL = 'http://localhost/anti-ragging-platform';
+const DEV_API_URL = 'https://akf.digital/anti-ragging-platform';
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || DEV_API_URL;
 
 // Log the API URL in development

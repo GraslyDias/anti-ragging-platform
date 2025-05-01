@@ -73,6 +73,7 @@ export default function Hero() {
   const cardBgColor = useColorModeValue('white', 'gray.800');
   const cardBorderColor = useColorModeValue('gray.200', 'gray.700');
   const statCardColor = useColorModeValue('gray.500', 'gray.400');
+  const buttonHoverBgColor = useColorModeValue('gray.50', 'gray.700');
 
   // Helper function to format number with "+" suffix if greater than 0
   const formatStatNumber = (num: number) => {
@@ -176,7 +177,7 @@ export default function Hero() {
               py={{base: 5, md: 6}}
               fontSize={{base: 'sm', md: 'md'}}
               _hover={{
-                bg: useColorModeValue('gray.50', 'gray.700'),
+                bg: buttonHoverBgColor,
                 transform: 'translateY(-2px)',
                 boxShadow: 'md',
               }}
