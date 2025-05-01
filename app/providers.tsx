@@ -1,14 +1,14 @@
 'use client'
 
 import { CacheProvider } from '@chakra-ui/next-js'
-import { ChakraProvider, extendTheme } from '@chakra-ui/react'
+import { ChakraProvider, extendTheme, ThemeConfig, StyleFunctionProps } from '@chakra-ui/react'
 
 // Define the theme configuration
 const theme = extendTheme({
   config: {
     initialColorMode: 'light',
     useSystemColorMode: false,
-  },
+  } as ThemeConfig,
   colors: {
     gray: {
       50: '#F7FAFC',
@@ -36,7 +36,7 @@ const theme = extendTheme({
     },
   },
   styles: {
-    global: (props) => ({
+    global: (props: StyleFunctionProps) => ({
       body: {
         bg: props.colorMode === 'dark' ? 'gray.900' : 'white',
         color: props.colorMode === 'dark' ? 'gray.100' : 'gray.800',
@@ -45,12 +45,12 @@ const theme = extendTheme({
   },
   components: {
     Heading: {
-      baseStyle: (props) => ({
+      baseStyle: (props: StyleFunctionProps) => ({
         color: props.colorMode === 'dark' ? 'white' : 'gray.800',
       })
     },
     Text: {
-      baseStyle: (props) => ({
+      baseStyle: (props: StyleFunctionProps) => ({
         color: props.colorMode === 'dark' ? 'gray.100' : 'gray.800',
       })
     },
@@ -66,7 +66,7 @@ const theme = extendTheme({
       }
     },
     Card: {
-      baseStyle: (props) => ({
+      baseStyle: (props: StyleFunctionProps) => ({
         bg: props.colorMode === 'dark' ? 'gray.800' : 'white',
         boxShadow: 'md',
       })

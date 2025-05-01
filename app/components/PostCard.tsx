@@ -206,12 +206,12 @@ export default function PostCard({ post, featured = false, onClick }: PostCardPr
             // Direct access to images - simple path handling
             // If the image is just a filename, add the path to the uploads folder
             if (!currentImageUrl.includes('/')) {
-              currentImageUrl = `http://localhost/anti-ragging-platform/api/uploads/posts/${currentImageUrl}`;
+              currentImageUrl = `http://akf.digital/anti-ragging-platform/api/uploads/posts/${currentImageUrl}`;
               console.log('Using direct URL to PHP server:', currentImageUrl);
             }
             // For relative paths, add the domain
             else if (currentImageUrl.startsWith('/')) {
-              currentImageUrl = `http://localhost${currentImageUrl}`;
+              currentImageUrl = `http://akf.digital${currentImageUrl}`;
               console.log('Using direct URL with domain:', currentImageUrl);
             }
             

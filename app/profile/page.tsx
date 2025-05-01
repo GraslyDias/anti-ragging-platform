@@ -38,7 +38,7 @@ import {
 import { useRouter } from 'next/navigation';
 import { ViewIcon, ViewOffIcon } from '@chakra-ui/icons';
 import Navbar from '../components/Navbar';
-import API_ENDPOINTS from '@/app/config/api';
+import API_ENDPOINTS, { API_BASE } from '@/app/config/api';
 import { format } from 'date-fns';
 
 export default function Profile() {
@@ -149,7 +149,7 @@ export default function Profile() {
   // Function to fetch user's account creation date if not in localStorage
   const fetchUserCreatedDate = async (userId: number) => {
     try {
-      const response = await fetch(`${API_ENDPOINTS.API_BASE}/api/auth/get_user_info.php?user_id=${userId}`);
+      const response = await fetch(`${API_BASE}/api/auth/get_user_info.php?user_id=${userId}`);
       if (response.ok) {
         const data = await response.json();
         if (data.status === 'success' && data.user && data.user.created_at) {
@@ -157,9 +157,17 @@ export default function Profile() {
           setUserStats(prev => ({ ...prev, joinDate }));
           
           // Update local user data
-          const updatedUser = { ...user, created_at: data.user.created_at };
-          setUser(updatedUser);
-          localStorage.setItem('user', JSON.stringify(updatedUser));
+          if (user) {
+            const updatedUser = { 
+              id: user.id, 
+              name: user.name, 
+              email: user.email, 
+              avatar: user.avatar,
+              created_at: data.user.created_at 
+            };
+            setUser(updatedUser);
+            localStorage.setItem('user', JSON.stringify(updatedUser));
+          }
         }
       }
     } catch (error) {
@@ -185,7 +193,7 @@ export default function Profile() {
       // Fetch comments count
       let commentsCount = 0;
       try {
-        const commentsResponse = await fetch(`${API_ENDPOINTS.API_BASE}/api/comments/get_user_comments_count.php?user_id=${userId}`);
+        const commentsResponse = await fetch(`${API_BASE}/api/comments/get_user_comments_count.php?user_id=${userId}`);
         if (commentsResponse.ok) {
           const commentsData = await commentsResponse.json();
           if (commentsData.status === 'success') {

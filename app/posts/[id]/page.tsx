@@ -818,7 +818,7 @@ export default function PostDetail() {
                     .map(img => {
                       // Handle different image URL patterns
                       if (img.startsWith('/anti-ragging-platform')) {
-                        return `http://localhost${img}`;
+                        return `http://akf.digital${img}`;
                       }
                       // Handle images stored as filenames only
                       else if (!img.includes('/') && !img.startsWith('http')) {

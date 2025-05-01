@@ -1,0 +1,16 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/imageProxy/route": "app/api/imageProxy/route.js",
+  "/posts/[id]/(routes)/route": "app/posts/[id]/(routes)/route.js",
+  "/posts/edit/[id]/(routes)/route": "app/posts/edit/[id]/(routes)/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/auth/register/page": "app/auth/register/page.js",
+  "/page": "app/page.js",
+  "/posts/[id]/page": "app/posts/[id]/page.js",
+  "/posts/create/page": "app/posts/create/page.js",
+  "/posts/edit/[id]/page": "app/posts/edit/[id]/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/posts/page": "app/posts/page.js"
+}

@@ -1,5 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 
+// Make this route static for export compatibility
+export const dynamic = 'force-static';
+
 // Define the base URL for the PHP backend
 const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'https://akf.digital/anti-ragging-platform';
 

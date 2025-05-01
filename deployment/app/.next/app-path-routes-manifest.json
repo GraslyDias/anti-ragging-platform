@@ -1,0 +1,16 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/api/imageProxy/route": "/api/imageProxy",
+  "/posts/[id]/(routes)/route": "/posts/[id]",
+  "/posts/edit/[id]/(routes)/route": "/posts/edit/[id]",
+  "/_not-found/page": "/_not-found",
+  "/auth/login/page": "/auth/login",
+  "/dashboard/page": "/dashboard",
+  "/auth/register/page": "/auth/register",
+  "/page": "/",
+  "/posts/[id]/page": "/posts/[id]",
+  "/posts/create/page": "/posts/create",
+  "/posts/edit/[id]/page": "/posts/edit/[id]",
+  "/profile/page": "/profile",
+  "/posts/page": "/posts"
+}
